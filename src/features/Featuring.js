@@ -6,6 +6,7 @@ const Featuring = () => {
     <div>
       <b>Featuring</b>
       <p>holaa yang disana</p>
+      <p>test lagi ya 1</p>
     </div>
 
   )
