@@ -7,6 +7,7 @@ const Featuring = () => {
       <b>Featuring</b>
       <p>holaa yang disana</p>
       <p>test lagi ya 1</p>
+      <p>test lagi ya 2</p>
     </div>
 
   )
